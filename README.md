@@ -1,2 +1,2 @@
 # GACCIE
-Json's do projeto GACCIE 2019.
+Arquivos do projeto GACCIE 2019.
